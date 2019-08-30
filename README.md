@@ -1,2 +1,2 @@
 # CTF
-WriteupCTF | Team Name ZeroByte_ID
+WriteupCTF | Team Name Disuruh_Ricky_Ikutan
