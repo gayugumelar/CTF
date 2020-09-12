@@ -1,2 +1,2 @@
 # CTF
-WriteupCTF | Team Name PesawaranCyberSecurity
+WriteupCTF | Team Name VOID
